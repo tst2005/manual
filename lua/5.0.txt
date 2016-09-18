@@ -1,0 +1,4 @@
+
+This is the documentation for Lua 5.0, consistent with the one in
+        http://www.lua.org/manual/5.0/
+
